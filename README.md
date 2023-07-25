@@ -14,7 +14,6 @@ The beauty of this project is that we will build it entirely from scratch. As yo
 
 
 Prerequisites:
-
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Install Java Development Kit (JDK) on your local machine. You can download it from the Oracle website or adopt OpenJDK.
