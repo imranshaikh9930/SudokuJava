@@ -13,6 +13,35 @@ But, of course, the thrill lies in overcoming each puzzle yourself. To keep you 
 The beauty of this project is that we will build it entirely from scratch. As you join us on this creative journey, we will work together to craft an extraordinary combination of a 9x9 matrix of buttons, giving life to the Sudoku Solver.
 
 
+Prerequisites:
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Install Java Development Kit (JDK) on your local machine. You can download it from the Oracle website or adopt OpenJDK.
+Download and install NetBeans IDE from the official website (https://netbeans.apache.org/).
+Setup the Project:
+
+Download the project source code from the repository or as a ZIP archive.
+Extract the project files to a directory of your choice.
+Import the Project in NetBeans:
+
+Open NetBeans IDE.
+Click on "File" in the menu bar and select "Open Project."
+Navigate to the directory where you extracted the project files and select the project folder. Click "Open."
+Explore the Project Structure:
+The project should contain various Java classes, including the main GUI class, a Sudoku solver algorithm class, and utility classes to handle Sudoku grids.
+
+Build the Project:
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Right-click on the project in the "Projects" pane (usually on the left side of the IDE).
+Select "Build" to compile the project and resolve any dependencies.
+Run the Application:
+
+After successful compilation, right-click on the project again and select "Run" to start the application.
+The Sudoku Solver GUI window should appear, allowing you to interact with the application.
+
+
 Tech Stack 
 ----------------------------------------------------------------------------------------------------------------------------------------
 * JAVA
